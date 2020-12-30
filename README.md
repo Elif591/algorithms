@@ -1,0 +1,2 @@
+# algorithms
+ squential mergesort quicksort
